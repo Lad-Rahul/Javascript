@@ -23,3 +23,20 @@ console.log(accountState) // default value of variable is undefined
 
 console.table([accountId, accountName, accountPassword, accountState, accountCity])
 // shows logs in table form
+
+/*
+There are two limitations on variable names in JavaScript:
+
+1. The name must contain only letters, digits, or the symbols $ and _.
+2. The first character must not be a digit.
+*/
+
+/*
+A variable should be declared only once.
+A repeated declaration of the same variable is an error:
+*/
+
+/*
+Case matters
+Variables named apple and APPLE are two different variables.
+*/
