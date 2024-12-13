@@ -28,6 +28,7 @@ let bigNumber2 = 123456789098765432n //bigInt
     You may also come across another syntax: typeof(x). It’s the same as typeof x.
 
     typeof is an operator, not a function. The parentheses here aren’t a part of typeof. It’s the kind of parentheses used for mathematical grouping.
+
 */
 
 console.table(
